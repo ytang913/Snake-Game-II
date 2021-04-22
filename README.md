@@ -28,6 +28,8 @@ JavaScript classes are used for the Snake, food, and poison
 
 JavaScript functions are used to create the board, the snake's action of eating the food and posion, scoreboard, and movement of the snake.
 
+This web based application was deployed in Microsoft Azure: 
+
 
 # Result when the user is starts the game
 ![](images/snakeIIThumbnail.jpg)
