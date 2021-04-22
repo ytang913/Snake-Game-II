@@ -30,10 +30,10 @@ JavaScript functions are used to create the board, the snake's action of eating 
 
 
 # Result when the user is starts the game
-![](images/)
+![](images/snakeIIThumbnail.jpg)
 # Result when the user is playing the game
-![](images/)
+![](images/snakeIIplaying.jpg)
 # Result when the snake eats the poison
-![](images/)
+![](images/snakeIIpoison.jpg)
 
  
